@@ -1,4 +1,5 @@
 NURSE-PATIENT SCHEDULING MODEL
+
 This project implements a machine learning-based model for scheduling nurses to patients, taking into account various factors such as patient priority, nurse availability, and required hours for each task. The goal is to optimize the allocation of nurses to patients efficiently, ensuring that the workload is distributed fairly among nurses while prioritizing urgent cases.
 
 Features:
